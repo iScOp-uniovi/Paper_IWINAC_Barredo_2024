@@ -23,7 +23,7 @@ The objective of this study is to evaluate the performance of an evolutionary al
 ## 📊 Workflow Instances
 The instances used in this study come from the original repository:
 
-🔗 **Original Repository**: [https://github.com/RepositorioOriginal](https://github.com/RepositorioOriginal)
+🔗 **Original Repository**: [https://wfcommons.org/](https://wfcommons.org/)
 
 Since versions have changed over time, this repository stores an exact copy of the instances used in our experiments to ensure reproducibility.
 
@@ -33,7 +33,7 @@ Since versions have changed over time, this repository stores an exact copy of t
 To access the instances, download the repository and navigate to the `data/instances/` folder:
 
 ```bash
-git clone https://github.com/GrupoInvestigacion/Paper_IWINAC_2024.git
+git clone https://github.com/iScOp-uniovi/Paper_IWINAC_2024.git
 cd Paper_IWINAC_2024/data/instances/
 ```
 
@@ -43,8 +43,8 @@ cd Paper_IWINAC_2024/data/instances/
 If you use these instances or the results of this study in your work, please cite our paper as follows:
 
 ```
-@inproceedings{LastName2024IWINAC,
-  author    = {Author1 and Author2 and Author3},
+@inproceedings{Barredo2024IWINAC,
+  author    = {Pablo Barredo and Jorge Puente},
   title     = {Workflow Scheduling in Cloud Computing using Evolutionary Algorithms},
   booktitle = {Proceedings of the International Work-Conference on Artificial and Natural Computation (IWINAC)},
   year      = {2024},
