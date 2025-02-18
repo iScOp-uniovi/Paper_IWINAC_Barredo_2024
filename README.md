@@ -9,7 +9,7 @@ This repository contains the instances used in the paper:
 >
 > DOI: [10.1007/978-3-031-61137-7_17](https://doi.org/10.1007/978-3-031-61137-7_17)
 
-The objective of this study is to evaluate the performance of an evolutionary algorithm for workflow scheduling in cloud computing environments.
+Scheduling problems require evolutionary methods, but they often struggle with complexity. To enhance solutions, heuristic knowledge can be integrated into fitness functions, although this may introduce bias towards local minima. This paper proposes a cooperative multi-fitness approach that combines genetic diversity with heuristic solutions to support a standard fitness function. Lamarckism can assist in the reconstruction of chromosomes, for direct evaluation by the standard fitness decoder. This combination of genetic diversity and heuristic knowledge aims to achieve superior solutions. This evaluation approach is applied to a genetic algorithm for scientific workflow scheduling, minimizing total execution time in cloud computing.
 
 ---
 
