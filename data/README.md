@@ -19,8 +19,8 @@ These datasets were used to evaluate the performance of an evolutionary algorith
 
 ## 📂 Folder Structure
 
-- `instances/workflows/` → Contains scientific workflow instances extracted from **WfCommons** ([version 1.4](https://github.com/wfcommons/WfInstances/tree/main/pegasus)).
-- `instances/hosts/` → Contains different **IaaS configurations** used during experimentation.
+- `workflows/` → Contains scientific workflow instances extracted from **WfCommons** ([version 1.4](https://github.com/wfcommons/WfInstances/tree/main/pegasus)).
+- `hosts/` → Contains different **IaaS configurations** used during experimentation.
 
 ---
 
